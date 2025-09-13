@@ -71,11 +71,11 @@ cat << EOF > /usr/local/etc/xray/config.json
                 "security": "reality",
                 "realitySettings": {
                     "show": false,
-                    "dest": "github.com:443",
+                    "dest": "max.ru:443",
                     "xver": 0,
                     "serverNames": [
-                        "github.com",
-                        "www.github.com"
+                        "max.ru",
+                        "www.max.ru"
                     ],
                     "privateKey": "$privatkey",
                     "minClientVer": "",
